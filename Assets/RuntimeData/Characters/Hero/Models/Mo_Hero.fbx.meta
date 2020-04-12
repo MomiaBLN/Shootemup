@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: 42b1023e442cfc34a964be0f3c63ecbb
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: 1964172619801995174
+    second: Armature|A_Pose
+  - first:
+      74: 786130197506592467
+    second: Armature|Arm_Up
+  - first:
+      74: 2084830374215531234
+    second: Armature|ArmUp
+  - first:
+      74: -5179785421388635773
+    second: Armature|Fire
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nick_ANIMATION_2_model_model_lambert2
+    second: {fileID: 2100000, guid: 2d4464c7efb73fc43b382a3fcdf9b274, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Nick_ANIMATION_2:model:model:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Nick_ANIMATION_2:model:model:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Mo_Hero(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: Mo_Hero(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000081460335, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Nick_ANIMATION_2:model:model:Hips
+      parentName: Armature
+      position: {x: -0, y: 0.9870242, z: -0.007504992}
+      rotation: {x: -0.000000047709214, y: 0.0000000038743013, z: -0.0000000020861617,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Nick_ANIMATION_2:model:model:Spine
+      parentName: Nick_ANIMATION_2:model:model:Hips
+      position: {x: -0, y: 0.0967218, z: -0.009118788}
+      rotation: {x: -0.046983056, y: -4.440892e-16, z: -3.2732675e-17, w: 0.9988957}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Nick_ANIMATION_2:model:model:Spine1
+      parentName: Nick_ANIMATION_2:model:model:Spine
+      position: {x: -0, y: 0.11334252, z: 0.000000009536743}
+      rotation: {x: -0.0000000037252903, y: -0, z: 1.6543612e-24, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Nick_ANIMATION_2:model:model:Spine2
+      parentName: Nick_ANIMATION_2:model:model:Spine1
+      position: {x: -0, y: 0.12953424, z: 0.000000009536743}
+      rotation: {x: 0.000000037252903, y: 3.9143714e-16, z: 1.1298617e-15, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Nick_ANIMATION_2:model:model:Neck
+      parentName: Nick_ANIMATION_2:model:model:Spine2
+      position: {x: -0, y: 0.14572603, z: 0}
+      rotation: {x: 0.046983026, y: 1.7479848e-18, z: -1.1146541e-15, w: 0.9988957}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Nick_ANIMATION_2:model:model:Head
+      parentName: Nick_ANIMATION_2:model:model:Neck
+      position: {x: -0, y: 0.067015834, z: 0.008841396}
+      rotation: {x: -0.0000000037252903, y: -3.3087225e-24, z: 3.6576893e-23, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Nick_ANIMATION_2:model:model:HeadTop_End
+      parentName: Nick_ANIMATION_2:model:model:Head
+      position: {x: -0, y: 0.27010298, z: 0.035634656}
+      rotation: {x: -0, y: -0, z: -1.2325952e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Nick_ANIMATION_2:model:model:HeadTop_End_end
+      parentName: Nick_ANIMATION_2:model:model:HeadTop_End
+      position: {x: -0, y: 0.27244353, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Nick_ANIMATION_2:model:model:LeftShoulder
+      parentName: Nick_ANIMATION_2:model:model:Spine2
+      position: {x: -0.069037214, y: 0.12630339, z: -0.0019174003}
+      rotation: {x: 0.55592775, y: -0.43264785, z: 0.571608, w: 0.42074272}
+      scale: {x: 1.0000001, y: 0.99999964, z: 1}
+    - name: Nick_ANIMATION_2:model:model:LeftArm
+      parentName: Nick_ANIMATION_2:model:model:LeftShoulder
+      position: {x: 0.000000008940696, y: 0.14370558, z: -0.000000042319297}
+      rotation: {x: -0.11237243, y: -0.028234586, z: -0.008911014, w: 0.99322504}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000005}
+    - name: Nick_ANIMATION_2:model:model:LeftForeArm
+      parentName: Nick_ANIMATION_2:model:model:LeftArm
+      position: {x: -0.0000000020116566, y: 0.231693, z: -0.000000003427267}
+      rotation: {x: -0.025101375, y: 0.0032967213, z: -0.039895535, w: 0.99888307}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000004}
+    - name: Nick_ANIMATION_2:model:model:LeftHand
+      parentName: Nick_ANIMATION_2:model:model:LeftForeArm
+      position: {x: -0.0000000047683715, y: 0.30871937, z: -0.000000017695129}
+      rotation: {x: 0.17713866, y: 0.5528716, z: -0.12164569, w: 0.8050821}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000002}
+    - name: Nick_ANIMATION_2:model:model:LeftHandIndex1
+      parentName: Nick_ANIMATION_2:model:model:LeftHand
+      position: {x: -0.0000000047683715, y: 0.07774096, z: 0.0000000667572}
+      rotation: {x: 0.012842708, y: -0.9788905, z: 0.06502847, w: 0.19333851}
+      scale: {x: 0.9999998, y: 1.0000006, z: 1.0000005}
+    - name: Nick_ANIMATION_2:model:model:LeftHandIndex2
+      parentName: Nick_ANIMATION_2:model:model:LeftHandIndex1
+      position: {x: 0.000000017937273, y: 0.056407206, z: 0.000000011920928}
+      rotation: {x: 0.15654992, y: 0.00000059604645, z: 0.15868223, w: 0.9748395}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Nick_ANIMATION_2:model:model:LeftHandIndex3
+      parentName: Nick_ANIMATION_2:model:model:LeftHandIndex2
+      position: {x: 0.030000186, y: 0.075187, z: -0.029596945}
+      rotation: {x: 0.021905152, y: -0.02822211, z: -0.04949099, w: 0.99813545}
+      scale: {x: 1, y: 1.0000001, z: 1.0000006}
+    - name: Nick_ANIMATION_2:model:model:LeftHandIndex4
+      parentName: Nick_ANIMATION_2:model:model:LeftHandIndex3
+      position: {x: 0.009112449, y: 0.047635317, z: -0.023130769}
+      rotation: {x: 0.0000000037254253, y: -0.00000005960457, z: -0.00000018626466,
+        w: 1}
+      scale: {x: 0.99999994, y: 1.0000007, z: 1.000001}
+    - name: Nick_ANIMATION_2:model:model:LeftHandIndex4_end
+      parentName: Nick_ANIMATION_2:model:model:LeftHandIndex4
+      position: {x: -0, y: 0.053732626, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Nick_ANIMATION_2:model:model:RightShoulder
+      parentName: Nick_ANIMATION_2:model:model:Spine2
+      position: {x: 0.069037214, y: 0.12628727, z: -0.0017464161}
+      rotation: {x: -0.55668294, y: -0.43206188, z: 0.57096994, w: -0.42121255}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000005}
+    - name: Nick_ANIMATION_2:model:model:RightArm
+      parentName: Nick_ANIMATION_2:model:model:RightShoulder
+      position: {x: 0.000000017881392, y: 0.14370574, z: -0.00000006079674}
+      rotation: {x: -0.112471536, y: 0.031923756, z: 0.007432162, w: 0.9931143}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000006}
+    - name: Nick_ANIMATION_2:model:model:RightForeArm
+      parentName: Nick_ANIMATION_2:model:model:RightArm
+      position: {x: -0.000000001490116, y: 0.23168892, z: -0.00000005841255}
+      rotation: {x: 0.025407081, y: 0.0033308554, z: -0.03977174, w: -0.9988802}
+      scale: {x: 0.9999994, y: 0.99999934, z: 0.99999964}
+    - name: Nick_ANIMATION_2:model:model:RightHand
+      parentName: Nick_ANIMATION_2:model:model:RightForeArm
+      position: {x: 0.000000010728836, y: 0.30862212, z: 0.000000041127205}
+      rotation: {x: 0.08336942, y: 0.015824296, z: 0.12780075, w: 0.988163}
+      scale: {x: 1.0000005, y: 1.0000018, z: 1.0000008}
+    - name: Nick_ANIMATION_2:model:model:RightHandIndex1
+      parentName: Nick_ANIMATION_2:model:model:RightHand
+      position: {x: 0.000000014305114, y: 0.18600167, z: -0.00000011205673}
+      rotation: {x: 0.079644464, y: 0.0019330068, z: 0.007343241, w: 0.9967944}
+      scale: {x: 1.0000007, y: 1.0000012, z: 1.0000007}
+    - name: Nick_ANIMATION_2:model:model:RightHandIndex2
+      parentName: Nick_ANIMATION_2:model:model:RightHandIndex1
+      position: {x: -0.000000009536743, y: 0.02299619, z: -0.0000000834465}
+      rotation: {x: -0.028024497, y: -0.000006876185, z: 0.038184304, w: 0.9988777}
+      scale: {x: 1, y: 0.9999997, z: 0.99999994}
+    - name: Nick_ANIMATION_2:model:model:RightHandIndex3
+      parentName: Nick_ANIMATION_2:model:model:RightHandIndex2
+      position: {x: 0.00529397, y: 0.03749884, z: 0.0038852084}
+      rotation: {x: 0.12930366, y: -0.031634588, z: 0.12913729, w: 0.98265123}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: Nick_ANIMATION_2:model:model:RightHandIndex4
+      parentName: Nick_ANIMATION_2:model:model:RightHandIndex3
+      position: {x: 0.011159105, y: 0.02317315, z: -0.0054968214}
+      rotation: {x: 0.000000044703082, y: 0.00000007683456, z: -0.000000042608054,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Nick_ANIMATION_2:model:model:RightHandIndex4_end
+      parentName: Nick_ANIMATION_2:model:model:RightHandIndex4
+      position: {x: -0, y: 0.02630092, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Nick_ANIMATION_2:model:model:LeftUpLeg
+      parentName: Nick_ANIMATION_2:model:model:Hips
+      position: {x: -0.121907786, y: -0.05360069, z: -0.011938824}
+      rotation: {x: 0.0037076683, y: -0.050647423, z: 0.99604565, w: 0.072898954}
+      scale: {x: 1.0000027, y: 1.0000007, z: 1.0000011}
+    - name: Nick_ANIMATION_2:model:model:LeftLeg
+      parentName: Nick_ANIMATION_2:model:model:LeftUpLeg
+      position: {x: -0.000000015348196, y: 0.41762468, z: 0.0000000056981295}
+      rotation: {x: 0.020017967, y: 0.00043536624, z: 0.0217989, w: 0.99956185}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1}
+    - name: Nick_ANIMATION_2:model:model:LeftFoot
+      parentName: Nick_ANIMATION_2:model:model:LeftLeg
+      position: {x: -0.0000000047683715, y: 0.37507656, z: -5.9604643e-10}
+      rotation: {x: 0.47423095, y: -0.0022794798, z: 0.0012278683, w: 0.8803967}
+      scale: {x: 1.0000012, y: 1.000001, z: 1.0000002}
+    - name: Nick_ANIMATION_2:model:model:LeftToeBase
+      parentName: Nick_ANIMATION_2:model:model:LeftFoot
+      position: {x: -0.000000018496065, y: 0.24573132, z: -0.000000019967555}
+      rotation: {x: 0.31887606, y: -0.0060403524, z: 0.0020323312, w: 0.94777495}
+      scale: {x: 1.000002, y: 1.0000005, z: 1.0000015}
+    - name: Nick_ANIMATION_2:model:model:LeftToe_End
+      parentName: Nick_ANIMATION_2:model:model:LeftToeBase
+      position: {x: -0.000000011771917, y: 0.093165606, z: 6.705522e-10}
+      rotation: {x: -0, y: 0.0000000074505797, z: -0.000000008498318, w: 1}
+      scale: {x: 1.0000008, y: 1.0000004, z: 1.0000008}
+    - name: Nick_ANIMATION_2:model:model:LeftToe_End_end
+      parentName: Nick_ANIMATION_2:model:model:LeftToe_End
+      position: {x: -0, y: 0.0931657, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Nick_ANIMATION_2:model:model:RightUpLeg
+      parentName: Nick_ANIMATION_2:model:model:Hips
+      position: {x: 0.121907786, y: -0.05360069, z: -0.012126293}
+      rotation: {x: -0.0038344795, y: -0.052367378, z: 0.99595857, w: -0.072866544}
+      scale: {x: 1.0000033, y: 1.0000012, z: 1.0000013}
+    - name: Nick_ANIMATION_2:model:model:RightLeg
+      parentName: Nick_ANIMATION_2:model:model:RightUpLeg
+      position: {x: -0.000000003799796, y: 0.41777107, z: 0.0000000053437543}
+      rotation: {x: 0.022095114, y: -0.00048537436, z: -0.021761859, w: 0.9995189}
+      scale: {x: 1.0000002, y: 1.0000006, z: 0.99999976}
+    - name: Nick_ANIMATION_2:model:model:RightFoot
+      parentName: Nick_ANIMATION_2:model:model:RightLeg
+      position: {x: 0.00000004544854, y: 0.37506083, z: -0.000000005066395}
+      rotation: {x: 0.4744427, y: 0.0021147437, z: -0.0011397755, w: 0.8802831}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000002}
+    - name: Nick_ANIMATION_2:model:model:RightToeBase
+      parentName: Nick_ANIMATION_2:model:model:RightFoot
+      position: {x: 0.000000051986426, y: 0.24611112, z: 1.4901161e-10}
+      rotation: {x: 0.31834304, y: 0.0061887503, z: -0.002078374, w: 0.94795316}
+      scale: {x: 1.0000008, y: 1.0000002, z: 1.0000005}
+    - name: Nick_ANIMATION_2:model:model:RightToe_End
+      parentName: Nick_ANIMATION_2:model:model:RightToeBase
+      position: {x: -0.000000002980232, y: 0.092575625, z: -5.2154064e-10}
+      rotation: {x: -0, y: -0.000000030733645, z: 9.313226e-10, w: 1}
+      scale: {x: 1.0000011, y: 1.0000008, z: 1.0000007}
+    - name: Nick_ANIMATION_2:model:model:RightToe_End_end
+      parentName: Nick_ANIMATION_2:model:model:RightToe_End
+      position: {x: -0, y: 0.09257571, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Nick_ANIMATION_2:model:model:Body
+      parentName: Mo_Hero(Clone)
+      position: {x: -0.000000010430813, y: 0.0000000071525568, z: 0.0000000035762797}
+      rotation: {x: -0.7071068, y: -4.2146975e-10, z: 0.0000000050576214, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
